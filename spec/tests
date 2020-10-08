@@ -1,6 +1,0 @@
-def Crypto_keys
-  page = Nokogiri::HTML(URI.open(`https://coinmarketcap.com/all/views/all/`).read)
-  page.xpath (crypto_keys= page.xpath('//*[@id="__next"]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div[3]/div/table/tbody/tr[1]/td[3]/div[1]/text()'
-  
-  puts Cryto_keys
-end
