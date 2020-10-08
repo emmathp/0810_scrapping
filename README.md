@@ -1,1 +1,3 @@
 # 0810_scrapping
+#Un super beau dossier avec du code en veux-tu en voila, une journee infernale pour faire du scrapping! Yatta!
+#Accrochez-vous pour le code, et son explication XD...
